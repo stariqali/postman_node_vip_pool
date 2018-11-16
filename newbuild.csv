@@ -1,0 +1,7 @@
+port,fqdn,pool_name,vip_name,destination_address
+50277,fqdn-50277-cloud.cust.com,pl_fqdn-50277-cloud.cust.com_50277,vip_fqdn-50277-cloud.cust.com_50277,10.1.10.17
+50278,fqdn-50278-cloud.cust.com,pl_fqdn-50278-cloud.cust.com_50278,vip_fqdn-50278-cloud.cust.com_50278,10.1.10.18
+50279,fqdn-50279-cloud.cust.com,pl_fqdn-50279-cloud.cust.com_50279,vip_fqdn-50279-cloud.cust.com_50279,10.1.10.19
+50280,fqdn-50280-cloud.cust.com,pl_fqdn-50280-cloud.cust.com_50280,vip_fqdn-50280-cloud.cust.com_50280,10.1.10.20
+50281,fqdn-50281-cloud.cust.com,pl_fqdn-50281-cloud.cust.com_50281,vip_fqdn-50281-cloud.cust.com_50281,10.1.10.21
+50282,fqdn-50282-cloud.cust.com,pl_fqdn-50282-cloud.cust.com_50282,vip_fqdn-50282-cloud.cust.com_50282,10.1.10.22
